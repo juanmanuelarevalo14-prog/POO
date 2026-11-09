@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace nota_de_electiva_aldamir
+namespace Nota_Juan_Arévalo
 {
     internal class Program
     {
